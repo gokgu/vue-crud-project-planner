@@ -1,4 +1,5 @@
 # project-planner
+You can add new project, edit project, delete project and list projects with details.
 
 ## Project setup
 ```
